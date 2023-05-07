@@ -24,7 +24,7 @@ class ChatApplication:
 		self.window.mainloop()
 
 	def _setup_main_window(self):
-		self.window.title("Disease identifier")
+		self.window.title("Disease Predictor Bot")
 		self.window.resizable(width=True, height=True) 
 		self.window.configure(width=700, height=500, bg=BG_COLOR)
 
