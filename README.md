@@ -1,4 +1,4 @@
-# Disease-Prediction-From-Symptoms-Description
+# Medibot
 IBM - 312 project
 
 Our project involves building a disease predictor bot which can effectively diagnose an illness based on a user's description of his symptoms. 
